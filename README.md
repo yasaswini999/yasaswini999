@@ -9,9 +9,9 @@ I am a self-taught full stack developer from India and also a pre-final undergra
 ##  In a Nutshell 
 👩‍💻 I'm currently working on React applications
 
-👯‍♀️ I'm looking to work as an intern at firm
+👯‍♀️ I'm looking to work as an intern at your Firm
 
-⚡️ Fun fact about me : I like raw veggies
+⚡️ Fun fact about me : I ❤️ to eat raw veggies
 
 
 ## Languages and Tools
