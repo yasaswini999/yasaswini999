@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a self-taught full stack developer from India and also a pre-final undergraduate in Information technology who loves to build applications and add value to the community 
+I am a self-taught React developer from India and also a pre-final undergraduate in Information technology who loves to build applications and add value to the community 
 
 
 ##  In a Nutshell 
