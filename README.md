@@ -1,5 +1,5 @@
 
-# Hi, I'm Yasaswini! 🙋‍♀️
+# Hey, I'm Yasaswini! 🙋‍♀️
 
 
 ## 🚀 About Me
