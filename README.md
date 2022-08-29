@@ -7,7 +7,7 @@ I am a self-taught React developer from India and also a pre-final undergraduate
 
 
 ##  In a Nutshell 
-👩‍💻 I'm currently working on React applications
+
 
 👯‍♀️ I'm looking to work as an intern at your Firm
 
