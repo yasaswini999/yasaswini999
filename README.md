@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a final undergraduate in Information technology who loves to build applications and add value to the community 
+I am a final Year  undergraduate in Information technology who loves to build applications and add value to the community 
 
 
 ##  In a Nutshell 
