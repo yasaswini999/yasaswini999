@@ -9,7 +9,7 @@ I am well trained in HTML,CSS, and JS
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [yasaswini0918@gmail.com](mailto:yasaswini0918@gmail.com)
-*   🧠  I'm learning Angular
+*   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Interesting projects that fit well with my abilities
 *   ⚡  I ❤️ coffee
 ### Skills 
