@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 web developer and open Source Enthusiast
 ----------------------------------------
 
-I am well trained in HTML,CSS, and JS
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [yasaswini0918@gmail.com](mailto:yasaswini0918@gmail.com)
